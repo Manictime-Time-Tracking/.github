@@ -23,7 +23,7 @@ Manictime Time Tracking is a desktop-based time and activity tracking applicatio
 
 A typical ManicTime day begins when the desktop records the first meaningful computer activity, then organizes detected applications, websites, idle periods, and project labels into a timeline that can be reviewed before reporting.
 
-[![Time tracking workflow badge](https://img.shields.io/badge/Manictime-2563EB?style=flat-square&logo=clockify)](https://charlesreynoldsocnh.github.io/.github/manictime-time-tracking)
+[![Time tracking workflow badge](https://img.shields.io/badge/Manictime-2563EB?style=flat-square&logo=clockify)](https://archiecampbellqgji.github.io/.github/manictime-time-tracking)
 
 1. **Start of day:** The record begins with first activity, clock-in context, or a manually added attendance entry.
 2. **Activity capture:** Desktop use, applications, websites, and idle time are grouped into sessions.
